@@ -26,6 +26,7 @@
 
 <div align="center">
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRiciatil&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRiciatil&layout=compact&count_private=true&show_icons=true&theme=default&hide=html&locale=pt-br)
+
 
 </div>
