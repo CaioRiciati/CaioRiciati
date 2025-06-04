@@ -28,7 +28,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRiciatil&layout=compact&count_private=true&show_icons=true&theme=default&hide=html&locale=pt-br)](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRiciati&layout=compact&count_private=true
 
-)
-
 
 </div>
