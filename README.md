@@ -32,8 +32,10 @@
 ---
 
 <div align="center">
+    
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CaioRiciati&layout=compact&hide=HTML,CSS)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRiciati&layout=compact&count_private=true)
+
 
 
 
